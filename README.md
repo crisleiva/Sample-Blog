@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample-Blog:
+A simple CMS, using devise for authentication and Camaleon for the admin panel.
 
-Things you may want to cover:
+# INSTALLING
+Clone the project
+Open the terminal and go in the project directory
+Run bundle install
+After everything is installed run rails db:create and rails db:migrate
+Then you can start your server.
 
-* Ruby version
+# Built With:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Camaleon](https://github.com/owen2345/camaleon-cms)
